@@ -1,0 +1,16 @@
+{
+  "name": "wasm-exp",
+  "version": "1.0.0",
+  "description": "Test wasm",
+  "type" : "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "wasm"
+  ],
+  "author": "KasRoudra",
+  "license": "ISC"
+}
